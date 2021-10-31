@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="czechDictionary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/czechDictionary_jar</output-path>
+    <root id="archive" name="czechDictionary.jar">
+      <element id="module-output" name="czechDictionary" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../_Libraries/jsoup-1.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
