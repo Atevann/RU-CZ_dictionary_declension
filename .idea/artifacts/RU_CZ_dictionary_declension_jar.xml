@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="czechDictionary:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/czechDictionary_jar</output-path>
+  <artifact type="jar" name="RU-CZ_dictionary_declension:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RU_CZ_dictionary_declension_jar</output-path>
     <root id="archive" name="czechDictionary.jar">
       <element id="module-output" name="czechDictionary" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../_Libraries/jsoup-1.12.1.jar" path-in-jar="/" />
